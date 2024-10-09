@@ -1,0 +1,6 @@
+
+TWITTER_API_KEY = 'insert'
+TWITTER_API_SECRET_KEY = 'insert'
+TWITTER_ACCESS_TOKEN = 'insert'
+TWITTER_ACCESS_TOKEN_SECRET = 'insert'
+BEARER_TOKEN = 'insert'
